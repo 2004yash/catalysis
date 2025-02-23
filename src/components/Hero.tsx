@@ -74,7 +74,7 @@ const Hero = () => {
             />
             
             <h1 className="text-7xl md:text-8xl font-comic text-[#ffc247] mb-6 relative">
-              CATALYSIS 2024
+              CATALYSIS 2025
               <motion.div
                 animate={{ 
                   rotate: [0, 5, -5, 0],
