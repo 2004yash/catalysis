@@ -12,7 +12,7 @@ const FAQSection = () => {
     },
     {
       question: "WHEN? WHERE? HOW?",
-      answer: "March 7th & 8th, 2024! Join us at ISE Department for this legendary showdown! 🚀"
+      answer: "March 7th & 8th, 2025! Join us at ISE Department for this legendary showdown! 🚀"
     },
     {
       question: "KA-CHING! What's the registration fee?",

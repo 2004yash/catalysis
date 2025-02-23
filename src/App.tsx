@@ -106,7 +106,7 @@ function App() {
               <MapPin className="w-6 h-6" />
             </a>
           </div>
-          <p className="text-[#ffe0e0]">© 2024 Genesis - ISE Department</p>
+          <p className="text-[#ffe0e0]">© 2025 Genesis - ISE Department</p>
           <p className="mt-2 text-[#ffe0e0]">Made with 💻 by Genesis Tech Team</p>
         </div>
       </footer>

@@ -68,7 +68,7 @@ const Hero = () => {
           >
             {/* Single subtle comic bubble */}
             <ComicBubble 
-              text="TECH FEST 2024!" 
+              text="TECH FEST 2025!" 
               className="absolute -top-12 right-0 transform rotate-3"
               variant="subtle"
             />
@@ -112,7 +112,7 @@ const Hero = () => {
             className="flex flex-col md:flex-row justify-center items-center space-y-4 md:space-y-0 md:space-x-6"
           >
             <div className="text-[#ffe0e0] text-2xl font-comic">
-              <span className="font-bold">March 7-8, 2024</span>
+              <span className="font-bold">March 7-8, 2025</span>
             </div>
             <motion.button
               whileHover={{ scale: 1.05 }}
